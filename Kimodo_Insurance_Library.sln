@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Komodo_Insurance_Repository", "Komodo_Insurance_Repository.csproj", "{09CBD984-C462-4B24-AA24-E710E662B2FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Komodo_Insurance_Console", "..\Komodo_Insurance_Console.csproj", "{017A5590-8E56-4770-A08D-458474ED8BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Komodo_Repo_Tests", "..\..\Komodo_Insurance_Library\Komodo_Repo_Tests\Komodo_Repo_Tests.csproj", "{F6154F79-31AB-4F91-9F9C-FDFD09A7552E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CBD984-C462-4B24-AA24-E710E662B2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CBD984-C462-4B24-AA24-E710E662B2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CBD984-C462-4B24-AA24-E710E662B2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CBD984-C462-4B24-AA24-E710E662B2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017A5590-8E56-4770-A08D-458474ED8BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017A5590-8E56-4770-A08D-458474ED8BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017A5590-8E56-4770-A08D-458474ED8BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017A5590-8E56-4770-A08D-458474ED8BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6154F79-31AB-4F91-9F9C-FDFD09A7552E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6154F79-31AB-4F91-9F9C-FDFD09A7552E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6154F79-31AB-4F91-9F9C-FDFD09A7552E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6154F79-31AB-4F91-9F9C-FDFD09A7552E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86B24EE-F3C6-4ED3-A0FE-FCDF748588DF}
+	EndGlobalSection
+EndGlobal

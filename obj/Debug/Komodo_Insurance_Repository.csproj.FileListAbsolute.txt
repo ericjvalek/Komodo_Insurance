@@ -1,0 +1,12 @@
+C:\Users\ericj\source\repos\Kimodo_Insurance_Library\obj\Debug\Komodo_Insurance_Repository.csproj.AssemblyReference.cache
+C:\Users\ericj\source\repos\Kimodo_Insurance_Library\obj\Debug\Komodo_Insurance_Repository.csproj.CoreCompileInputs.cache
+C:\Users\ericj\source\repos\Kimodo_Insurance_Library\bin\Debug\Kimodo_Insurance_Library.dll
+C:\Users\ericj\source\repos\Kimodo_Insurance_Library\bin\Debug\Kimodo_Insurance_Library.pdb
+C:\Users\ericj\source\repos\Kimodo_Insurance_Library\obj\Debug\Kimodo_Insurance_Library.dll
+C:\Users\ericj\source\repos\Kimodo_Insurance_Library\obj\Debug\Kimodo_Insurance_Library.pdb
+C:\Users\ericj\source\repos\Komodo_Insurance_Console\Komodo_Insurance_Library\bin\Debug\Kimodo_Insurance_Library.dll
+C:\Users\ericj\source\repos\Komodo_Insurance_Console\Komodo_Insurance_Library\bin\Debug\Kimodo_Insurance_Library.pdb
+C:\Users\ericj\source\repos\Komodo_Insurance_Console\Komodo_Insurance_Library\obj\Debug\Komodo_Insurance_Repository.csproj.AssemblyReference.cache
+C:\Users\ericj\source\repos\Komodo_Insurance_Console\Komodo_Insurance_Library\obj\Debug\Komodo_Insurance_Repository.csproj.CoreCompileInputs.cache
+C:\Users\ericj\source\repos\Komodo_Insurance_Console\Komodo_Insurance_Library\obj\Debug\Kimodo_Insurance_Library.dll
+C:\Users\ericj\source\repos\Komodo_Insurance_Console\Komodo_Insurance_Library\obj\Debug\Kimodo_Insurance_Library.pdb
